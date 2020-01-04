@@ -1,0 +1,19 @@
+{
+  "name": "connect-four",
+  "version": "1.0.0",
+  "description": "connect four ML playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattshin/connect-four.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mattshin/connect-four/issues"
+  },
+  "homepage": "https://github.com/mattshin/connect-four#readme"
+}
